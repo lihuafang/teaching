@@ -1,1 +1,3 @@
-# teaching
+# Teaching
+
+## Research Methods
